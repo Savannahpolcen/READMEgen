@@ -1,4 +1,4 @@
-# Project test
+# The Professional ReadMe Generator!
 
 
   ## Table of Contents 
@@ -10,23 +10,23 @@
    6. [Questions](#Questions)
   
   ## Licensing 
-  ![Apache,Mozilla,MIT](https://img.shields.io/badge/license-Apache,Mozilla,MIT-important)
+  ![MIT](https://img.shields.io/badge/license-MIT-important)
 
   ## Desctiption
-  Project is really cool 
+  Users can generate a read me file for their project by simply answering the questions prompted on the command line.
   
   ## Installation
-  see instrucitons
+  First make sure Node.js is downloaded onto your local machine.Then clone this repo to your local machine. Start generator by entering node index.js into your command line. 
  
   ## Contributing
-  USAGE
+  This repo is public and may be used by anyone!
   
   ## Tests
-  There are no current tests
+  No current tests available.
   
   ## Questions
   
-  Contact by email at Wanda@wanda.com
-  GitHub User: https://github.com/Wanda
+  Contact by email at savannahpolcen@gmail.com
+  GitHub User: https://github.com/Savannahpolcen
  
   
